@@ -1,6 +1,7 @@
 # Customer-Churn-Prediction using Machine Learning
 This repository contains code and documentation for predicting customer churn using machine learning. Two datasets were utilized in this project: the IBM Customer Churn Dataset, focusing on customer-centric features, and the Telecom Churn Dataset (Asia).
 
+Read more about the project and the motivation: (Blog post)[https://chinmayih.wordpress.com/2023/12/30/unraveling-customer-churn-with-ml/]
 ### Execution Environment
 The project was executed entirely in Google Colab.
 
